@@ -1,0 +1,10 @@
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\bin\Debug\SimpleMediaConverter.exe.config
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\bin\Debug\SimpleMediaConverter.exe
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\bin\Debug\SimpleMediaConverter.pdb
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\obj\Debug\SimpleMediaConverter.csprojAssemblyReference.cache
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\obj\Debug\SimpleMediaConverter.Form1.resources
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\obj\Debug\SimpleMediaConverter.Properties.Resources.resources
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\obj\Debug\SimpleMediaConverter.csproj.GenerateResource.cache
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\obj\Debug\SimpleMediaConverter.csproj.CoreCompileInputs.cache
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\obj\Debug\SimpleMediaConverter.exe
+C:\Users\jrpki_000\Source\Repos\watmeron\SImpleMediaConverter\SimpleMediaConverter\obj\Debug\SimpleMediaConverter.pdb

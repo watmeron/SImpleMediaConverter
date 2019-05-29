@@ -16,5 +16,22 @@ namespace SimpleMediaConverter
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void inputBox_DragDrop(object sender, DragEventArgs e)
+        {
+            inputBox.Items.Add(e.Data.ToString());
+            return;
+        }
+
+        private void inputBox_DragEnter(object sender, DragEventArgs e)
+        {
+            e.Effect = DragDropEffects.Copy;
+            return;
+        }
     }
 }
